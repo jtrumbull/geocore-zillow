@@ -1,0 +1,22 @@
+{
+  "name": "geocore-zillow",
+  "version": "1.0.0",
+  "description": "Geocore: zillow component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtrumbull/geocore-zillow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtrumbull/geocore-zillow/issues"
+  },
+  "homepage": "https://github.com/jtrumbull/geocore-zillow#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
